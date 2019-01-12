@@ -1,5 +1,8 @@
 # OO_EventDriven_Sim
 
+- Run make from within the cmake-build-debug directory to build an executable called A2
+- Run the program with command ./ A2 <"filename.ext"> in the command line
+
 The program simulates an Event driven simulation on several Processes using Object Orientation concepts. 
 
 The program initially calls a static Simulation runSimulation method which accepts a filename as a command-line argument.
